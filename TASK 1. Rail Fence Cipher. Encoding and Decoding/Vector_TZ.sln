@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RailFenceCipher", "RailFenceCipher\RailFenceCipher.csproj", "{05747328-7D38-4A02-B545-E06E8A258448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RailFenceCipher.Tests", "RailFenceCipher.Tests\RailFenceCipher.Tests.csproj", "{FC504D7B-9E4E-4822-A14B-8C4251886E92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05747328-7D38-4A02-B545-E06E8A258448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05747328-7D38-4A02-B545-E06E8A258448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05747328-7D38-4A02-B545-E06E8A258448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05747328-7D38-4A02-B545-E06E8A258448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC504D7B-9E4E-4822-A14B-8C4251886E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC504D7B-9E4E-4822-A14B-8C4251886E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC504D7B-9E4E-4822-A14B-8C4251886E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC504D7B-9E4E-4822-A14B-8C4251886E92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF06D2B7-C958-4334-82FD-5BFB85E9A567}
+	EndGlobalSection
+EndGlobal

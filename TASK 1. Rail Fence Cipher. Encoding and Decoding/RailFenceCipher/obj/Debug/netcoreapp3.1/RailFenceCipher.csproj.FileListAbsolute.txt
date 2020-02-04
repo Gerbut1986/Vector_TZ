@@ -1,0 +1,8 @@
+D:\Software Development\Тестові завдання(різні компанії)\VECTOR Software\Vector_TZ\RailFenceCipher\bin\Debug\netcoreapp3.1\RailFenceCipher.deps.json
+D:\Software Development\Тестові завдання(різні компанії)\VECTOR Software\Vector_TZ\RailFenceCipher\bin\Debug\netcoreapp3.1\RailFenceCipher.dll
+D:\Software Development\Тестові завдання(різні компанії)\VECTOR Software\Vector_TZ\RailFenceCipher\bin\Debug\netcoreapp3.1\RailFenceCipher.pdb
+D:\Software Development\Тестові завдання(різні компанії)\VECTOR Software\Vector_TZ\RailFenceCipher\obj\Debug\netcoreapp3.1\RailFenceCipher.csprojAssemblyReference.cache
+D:\Software Development\Тестові завдання(різні компанії)\VECTOR Software\Vector_TZ\RailFenceCipher\obj\Debug\netcoreapp3.1\RailFenceCipher.AssemblyInfoInputs.cache
+D:\Software Development\Тестові завдання(різні компанії)\VECTOR Software\Vector_TZ\RailFenceCipher\obj\Debug\netcoreapp3.1\RailFenceCipher.AssemblyInfo.cs
+D:\Software Development\Тестові завдання(різні компанії)\VECTOR Software\Vector_TZ\RailFenceCipher\obj\Debug\netcoreapp3.1\RailFenceCipher.dll
+D:\Software Development\Тестові завдання(різні компанії)\VECTOR Software\Vector_TZ\RailFenceCipher\obj\Debug\netcoreapp3.1\RailFenceCipher.pdb
