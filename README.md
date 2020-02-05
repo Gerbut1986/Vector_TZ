@@ -13,7 +13,7 @@ WECRLTEERDSOEEFEAOCAIVDEN
 
 For both encoding and decoding, assume number of rails >= 2 and that passing an empty string will return an empty string.
 
-=------------------------------------------------------------------------------------------------------------------------------------=
+------------------------------------------------------------------------------------------------------------------------------------
 
 OOP
 TASK 1. Sortable Shapes
