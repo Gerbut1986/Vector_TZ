@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sortable_Shapes", "Sortable_Shapes\Sortable_Shapes.csproj", "{1FAFB8F3-906C-4B20-B182-C753EEF7D4C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sortable_Shapes.Tests", "Sortable_Shapes.Tests\Sortable_Shapes.Tests.csproj", "{13406E4B-B7BB-4219-9DB9-D8795B2DE34A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FAFB8F3-906C-4B20-B182-C753EEF7D4C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FAFB8F3-906C-4B20-B182-C753EEF7D4C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FAFB8F3-906C-4B20-B182-C753EEF7D4C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FAFB8F3-906C-4B20-B182-C753EEF7D4C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13406E4B-B7BB-4219-9DB9-D8795B2DE34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13406E4B-B7BB-4219-9DB9-D8795B2DE34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13406E4B-B7BB-4219-9DB9-D8795B2DE34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13406E4B-B7BB-4219-9DB9-D8795B2DE34A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {131DEA34-F55E-4BCB-AD1E-0C016377F87F}
+	EndGlobalSection
+EndGlobal
